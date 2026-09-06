@@ -7,7 +7,7 @@
 **Building production-ready AI systems that turn complex problems into practical business solutions.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harris%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harris-sheikh-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-Harix143-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harris-sheikh-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Harris%20Sheikh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harris-sheikh-dev)
 [![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisbyme@gmail.com)
 
 </div>
