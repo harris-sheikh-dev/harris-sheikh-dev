@@ -20,7 +20,6 @@ I'm a **Software Engineer and AI Architect** focused on building intelligent sys
 
 My journey started in **backend engineering with Python, Django, FastAPI, and REST APIs** and evolved into building production-oriented solutions around **Generative AI, Large Language Models, RAG, automation, and AI-powered products**.
 
-I enjoy working where **software engineering meets applied AI**: designing reliable architectures, integrating LLMs into real workflows, automating repetitive processes, and turning AI capabilities into measurable business value.
 
 - 🤖 Building with **Generative AI, LLMs, RAG & AI Automation**
 - 🐍 Strong background in **Python, FastAPI & Django**
