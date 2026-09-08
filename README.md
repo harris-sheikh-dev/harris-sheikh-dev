@@ -28,6 +28,7 @@ I enjoy working where **software engineering meets applied AI**: designing relia
 - ⚙️ Experienced with **backend systems, APIs, databases & DevOps**
 - 🎯 Focused on **reliability, scalability and real-world impact**
 - 🌍 Experienced working with international and remote teams
+- 📄 Know about my experience: [View Resume](https://drive.google.com/file/d/1Lt4qiODw3XfL5qXQUfnOKlB6dOZ1dnTb/view?usp=sharing)
 
 ---
 
