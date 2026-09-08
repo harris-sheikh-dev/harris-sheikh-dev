@@ -159,26 +159,43 @@ Built and maintained backend services and REST APIs using **Python, FastAPI and 
 COMSATS University Islamabad
 
 ---
-
-
-
 ## 🤝 Let's Connect
 
-I'm interested in working on **AI platforms, LLM applications, intelligent automation, backend systems and production AI products**.
+I'm open to opportunities and collaborations around **AI platforms, LLM applications, intelligent automation, backend engineering, and production-ready AI systems**.
 
-If you're building something where **AI needs to work reliably in the real world**, I'd be happy to connect.
+If you're building something where **AI needs to be reliable, scalable, and useful in the real world**, feel free to reach out.
 
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harris-sheikh-dev/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harris-sheikh-dev)
-&nbsp;
-[![Email](https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisbyme@gmail.com)
-
+  <a href="https://www.linkedin.com/in/harris-sheikh-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/harris-sheikh-dev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:harisbyme@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1Lt4qiODw3XfL5qXQUfnOKlB6dOZ1dnTb/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://x.com/itsHarix">
+    <img src="https://cdn.simpleicons.org/x/ffffff" alt="X" height="28" width="38" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/harixsheikh.hs">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="28" width="38" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/harris_sheikh">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" height="28" width="38" />
+  </a>
+</p>
 
 <div align="center">
 
